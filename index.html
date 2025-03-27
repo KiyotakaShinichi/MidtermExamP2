@@ -35,7 +35,7 @@
     <div class="container" id="students"></div>
 
     <script>
-        fetch('ndrei.xml')
+        fetch('santos_ndrei.xml')
             .then(response => response.text())
             .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
             .then(data => {
