@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <name>Light Yagami</name>
+        <course>BSIT</course>
+        <year_section>3bg2</year_section>
+        <adviser>Mr. Ramon Dela Cruz</adviser>
+        <school_year>2025-2026</school_year>
+        <picture>kira.jpg</picture>
+    </student>
+    <student>
+        <name>Kiyotaka Ayanokoji</name>
+        <course>BSIT</course>
+        <year_section>3bg2</year_section>
+        <adviser>Mr. Ramon Dela Cruz</adviser>
+        <school_year>2025-2026</school_year>
+        <picture>kiyo.jpg</picture>
+    </student>
+    <student>
+        <name>L Lawliet</name>
+        <course>BSIT</course>
+        <year_section>3bg2</year_section>
+        <adviser>Mr. Ramon Dela Cruz</adviser>
+        <school_year>2025-2026</school_year>
+        <picture>L.jpg</picture>
+    </student>
+    <student>
+        <name>Levi Ackerman</name>
+        <course>BSIT</course>
+        <year_section>3bg2</year_section>
+        <adviser>Mr. Ramon Dela Cruz</adviser>
+        <school_year>2025-2026</school_year>
+        <picture>levi.jpg</picture>
+    </student>
+    <student>
+        <name>Shinichi Kudo</name>
+        <course>BSIT</course>
+        <year_section>3bg2</year_section>
+        <adviser>Mr. Ramon Dela Cruz</adviser>
+        <school_year>2025-2026</school_year>
+        <picture>shinichi.jpg</picture>
+    </student>
+    <student>
+        <name>Hattori Heiji</name>
+        <course>BSIT</course>
+        <year_section>3bg2</year_section>
+        <adviser>Mr. Ramon Dela Cruz</adviser>
+        <school_year>2025-2026</school_year>
+        <picture>hattori.jpg</picture>
+    </student>
+    <student>
+        <name>Okabe Rintaro</name>
+        <course>BSIT</course>
+        <year_section>3bg2</year_section>
+        <adviser>Mr. Ramon Dela Cruz</adviser>
+        <school_year>2025-2026</school_year>
+        <picture>okabe.jpg</picture>
+    </student>
+    <student>
+        <name>Makise Kurisu</name>
+        <course>BSIT</course>
+        <year_section>3bg2</year_section>
+        <adviser>Mr. Ramon Dela Cruz</adviser>
+        <school_year>2025-2026</school_year>
+        <picture>makise.jpg</picture>
+    </student>
+    <student>
+        <name>Sora</name>
+        <course>BSIT</course>
+        <year_section>3bg2</year_section>
+        <adviser>Mr. Ramon Dela Cruz</adviser>
+        <school_year>2025-2026</school_year>
+        <picture>sora.jpg</picture>
+    </student>
+    <student>
+        <name>Johann Liebert</name>
+        <course>BSIT</course>
+        <year_section>3bg2</year_section>
+        <adviser>Mr. Ramon Dela Cruz</adviser>
+        <school_year>2025-2026</school_year>
+        <picture>johan.jpg</picture>
+    </student>
+</students>
